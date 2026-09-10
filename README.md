@@ -181,7 +181,7 @@ Advanced Mathematics, Python for Problem Solving, deeper full-stack development,
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/tarang_vaghasiya_?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/tarang_vaghasiya_/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gunjanasodariya?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/gunjanasodariya/)
 
 </div>
 

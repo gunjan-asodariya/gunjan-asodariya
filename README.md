@@ -65,7 +65,7 @@ $ cat tarang.json
 ```
 ```json
 {
-  "name": "Tarang Maheshbhai Vaghasiya",
+  "name": "Gunjan ashokbhai asodariya",
   "program": "B.Tech — Computer Science & Engineering",
   "institute": "CodingGita (codinggita.com)",
   "campus": "Swaminarayan University, Kalol, Gujarat",
@@ -125,13 +125,13 @@ Advanced Mathematics, Python for Problem Solving, deeper full-stack development,
 
 <div align="center">
 
-<a href="mailto:tarangvaghasiya.cg@gmail.com" target="_blank">
+<a href="mailto:gunjan.asodariya.cg@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/tarang_vaghasiya_/" target="_blank">
+<a href="(https://www.sololearn.com/en/profile/37255614)" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://github.com/tarangvaghasiya" target="_blank">
+<a href="(https://github.com/gunjan-asodariya)" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
